@@ -7,4 +7,6 @@ Repositório para Atividades e Projetos realizado durante as Aulas de Data Scien
 
 01. [Regressão Linear - Mudanças climática](https://github.com/EloizioHMD/Python_DS/blob/main/Regress%C3%A3o_Linear_(Mudan%C3%A7as_clim%C3%A1tica).ipynb)
 02. [Regressão Linear - Google Flu](https://github.com/EloizioHMD/Python_DS/blob/main/Regress%C3%A3o_Linear_(GoogleFlu).ipynb)
+03. [Decision Tree Regressor - Preço casa Kaggle](https://github.com/EloizioHMD/Python_DS/blob/main/Decision_Tree_Regressor(Kaggle).ipynb)
+04. [Random Forests - Preço casa Kaggle](https://github.com/EloizioHMD/Python_DS/blob/main/Random_Forests(Kaggle).ipynb)
 <p>...
