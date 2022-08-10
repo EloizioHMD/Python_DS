@@ -1,7 +1,6 @@
-# Data Science com Python
-<img src="https://awari.com.br/wp-content/uploads/2022/01/Logo.png"  style="height: 100px; width:100px;"/>
+# Data Science with Python
 
-Repositório para Atividades e Projetos realizado durante as Aulas de Data Science na formação Data Science da AWARI.
+Repositório para Atividades e Projetos em Python com foco em Ciências de Dados.
 
 **LISTA DE ATIVIDADES**
 
@@ -10,4 +9,5 @@ Repositório para Atividades e Projetos realizado durante as Aulas de Data Scien
 03. [Decision Tree Regressor - Preço casa Kaggle](https://github.com/EloizioHMD/Python_DS/blob/main/Decision_Tree_Regressor(Kaggle).ipynb)
 04. [Random Forests - Preço casa Kaggle](https://github.com/EloizioHMD/Python_DS/blob/main/Random_Forests(Kaggle).ipynb)
 05. [Projeto de Data Science - Competição do Desastre do Titanic Kaggle](https://github.com/EloizioHMD/Python_DS/blob/main/DS_Titanic(Kaggle).ipynb)
+06. [Atividade - Consumo API](https://github.com/EloizioHMD/Python_DS/blob/main/serietemp_ipca.ipynb)
 <p>...
