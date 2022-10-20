@@ -9,5 +9,6 @@ Repositório para Atividades e Projetos em Python com foco em Ciências de Dados
 03. [Decision Tree Regressor - Preço casa Kaggle](https://github.com/EloizioHMD/Python_DS/blob/main/Decision_Tree_Regressor(Kaggle).ipynb)
 04. [Random Forests - Preço casa Kaggle](https://github.com/EloizioHMD/Python_DS/blob/main/Random_Forests(Kaggle).ipynb)
 05. [Projeto de Data Science - Competição do Desastre do Titanic Kaggle](https://github.com/EloizioHMD/Python_DS/blob/main/DS_Titanic(Kaggle).ipynb)
-06. [Atividade - Consumo API](https://github.com/EloizioHMD/Python_DS/blob/main/serietemp_ipca.ipynb)
+06. [Consumo API - Series IPCA](https://github.com/EloizioHMD/Python_DS/blob/main/serietemp_ipca.ipynb)
+07. [Scrapping com Python e BeautifulSoup](https://github.com/EloizioHMD/Python_DS/blob/main/Scrapping_BeautifulSoup.ipynb)
 <p>...
