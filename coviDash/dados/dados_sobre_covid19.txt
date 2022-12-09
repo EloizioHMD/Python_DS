@@ -1,0 +1,1 @@
+No site do governo https://covid.saude.gov.br/ é possível baixar toda base de dados em .csv.
