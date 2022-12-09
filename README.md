@@ -13,4 +13,5 @@ Repositório para Atividades e Projetos em Python com foco em Ciências de Dados
 07. [Scrapping com Python e BeautifulSoup](https://github.com/EloizioHMD/Python_DS/blob/main/model_preco_de_imovel.ipynb)
 08. [Limpeza de dados](https://github.com/EloizioHMD/Python_DS/blob/main/Limpeza_dados.ipynb)
 09. [LazyModel para Machine Learning](https://github.com/EloizioHMD/Python_DS/blob/main/Lazymodel.ipynb)
+10. [Dashboard interativo com dash sobre os casos de Covid 19 - Asimov Academy](https://github.com/EloizioHMD/Python_DS/blob/main/coviDash/dashboard.py)
 <p>...
